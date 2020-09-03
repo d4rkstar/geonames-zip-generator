@@ -2,7 +2,7 @@
 
 Generates countries zip files from allCountries.zip
 
-Sometimes it happens that the geonames.org zip code download service is not available.
+Sometimes it happens that the geonames.org zip code download service [is not available](https://github.com/OCA/partner-contact/issues/826).
 
 By retrieving the allCountries.zip file from the network, it is possible to regenerate all the individual country zips using the attached extract.py script.
 
@@ -18,7 +18,6 @@ If, like me, you use odoo and the [base_location_geonames_import](https://apps.o
 
 where domain = your domain
 subpath = any subpath
-
 
 # Disclaimer
 All data are from Geonames: http://www.geonames.org/
