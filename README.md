@@ -6,8 +6,6 @@ Sometimes it happens that the geonames.org zip code download service is not avai
 
 By retrieving the allCountries.zip file from the network, it is possible to regenerate all the individual country zips using the attached extract.py script.
 
-
-83/5000
 Clone the repository, replace the allCountries.zip file and run the command:
 
 `python extract.py`
