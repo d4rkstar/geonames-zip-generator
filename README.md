@@ -23,4 +23,4 @@ subpath = any subpath
 
 
 # Disclaimer
-Tutti i dati sono di proprietà di Geonames: http://www.geonames.org/
+All data are from Geonames: http://www.geonames.org/
