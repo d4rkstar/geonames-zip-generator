@@ -16,7 +16,7 @@ In the "countries" directory you will find the zip files.
 
 If, like me, you use odoo and the [base_location_geonames_import](https://apps.odoo.com/apps/modules/12.0/base_location_geonames_import) module, you can use the zip obtained by placing the files on your webserver (or using the webserver integrated in python) and modifying the system parameter "geonames.url" in this way:
 
-`https: // domain / subpath /% s.zip`
+`https://domain/subpath /% s.zip`
 
 where domain = your domain
 subpath = any subpath
